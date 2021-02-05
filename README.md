@@ -15,13 +15,16 @@ The second and third experiments used the dataset from nuScenes. The progress ar
 The following videos are the localization performances of the first, second and third experiments in order. The colorful point cloud is the HD map, and the white point clouds are the data from lidar sensor.
 
 ITRI:
-https://youtu.be/El6_ONajUoU
+![](https://i.imgur.com/Y0j74xp.gif)
+
 
 nuScenes 1:
-https://youtu.be/pBqsVNMHf10
+![](https://i.imgur.com/rdZsFPS.gif)
+
 
 nuScenes 2:
-https://youtu.be/dDDuBFC5cmM
+![](https://i.imgur.com/zmUrgz2.gif)
+
 
 ### Using this Code to Reproduce the Results
 1. Before running the programs, make sure you download the dataset.
