@@ -1,0 +1,8 @@
+<launch>
+  <param name="/use_sim_time" value="true" />
+   <node pkg="rosbag" type="play" name="rosbagplay" args="$(find localization_competition)/test/sdc_localization_2_lite.bag --clock -r 0.05 -d 3.0" required="false"/>
+   <node pkg="localization_competition" type="nuscenes1" name="nuscenes1_icp" clear_params="true">
+    
+
+  </node>
+</launch>
