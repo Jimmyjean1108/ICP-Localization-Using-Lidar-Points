@@ -12,20 +12,12 @@ For the first experiment, I used the dataset from ITRI. The progress are shown i
 The second and third experiments used the dataset from nuScenes. The progress are shown in the flow chart below.![](https://i.imgur.com/dH6VdEf.jpg)
 
 ### Result
-The following videos are the localization performances of the first, second and third experiments in order. The colorful point cloud is the HD map, and the white point clouds are the data from lidar sensor.
+The following videos are the localization performances of the first and third experiments in order. The colorful point cloud is the HD map, and the white point clouds are the data from lidar sensor.
 
 ITRI:
 ![](https://i.imgur.com/Y0j74xp.gif)
 
-
-
-nuScenes 1:
-![](https://i.imgur.com/DrEMj5Z.gif)
-
-
-
-
-nuScenes 2:
+nuScenes:
 ![](https://i.imgur.com/zmUrgz2.gif)
 
 
